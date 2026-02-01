@@ -1,6 +1,6 @@
 # Caesar Cipher Encryption & Decryption (Java Swing)
 
-## 📌 Project Overview
+##  Project Overview
 This project is a Java Swing based GUI application that implements the Caesar Cipher algorithm.
 It allows users to encrypt and decrypt text by providing a shift value.
 
@@ -18,13 +18,9 @@ How to setup the java for swing program-
 - Go to the site- https://www.java.com/en/
 - Install it.
 - Open Control Panel
-
 - Go to System → Advanced system settings
-
 - Click Environment Variables
-
 - Under System Variables:
-
 - Click New
 
 Variable name: JAVA_HOME
@@ -54,5 +50,3 @@ Example:
 Text: HELLO
 Shift: 3
 Encrypted Text: KHOOR
-
-
